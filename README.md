@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SathiyaSath
+- 👋 Hi, I’m @Sathiya S
 - 👀 I’m interested in ...
 SOFTWARE DEVELOPING..
 JAVA ,SpringBoot
