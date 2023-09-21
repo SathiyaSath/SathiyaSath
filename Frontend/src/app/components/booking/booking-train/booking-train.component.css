@@ -1,0 +1,8 @@
+/* Add this CSS to your component's style file (e.g., booking-form.component.css) */
+/* You can adjust the width as needed */
+
+.form-control {
+    width: 100%; /* 100% width of the parent container */
+    /* You can set a specific width in pixels or any other unit if you prefer */
+  }
+  
